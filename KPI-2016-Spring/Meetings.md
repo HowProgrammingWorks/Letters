@@ -4,6 +4,7 @@
 
 | Дата          | Время | Где              | Описание   |
 |---            |---    |---               |---         |
+| 2016-04-28 чт | 17:00 (3 часа) | [25-18](#25-18)   | Лабораторные работы по Node.js из [HowProgrammingWorks](https://github.com/HowProgrammingWorks) |
 | 2016-04-26 вт | 14:30 | 323-18 | Доклады на [IOT-2016](http://fiot.kpi.ua/?page_id=5939) по проделанной работе |
 | 2016-04-25 пн | весь день | [25-18](#25-18) | Подготовка докладов по [Metarhia](https://github.com/metarhia) на [IOT-2016](http://fiot.kpi.ua/?page_id=5939) |
 | 2016-04-21 чт | 18:00 (2 часа) | [25-18](#25-18)   | Подготовка статей по [Metarhia](https://github.com/metarhia) на [IOT-2016](http://fiot.kpi.ua/?page_id=5939) |
