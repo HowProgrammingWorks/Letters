@@ -1,6 +1,9 @@
 ## Письма к студентам курса
 
 Оглавление:
+# Лето 2016
+* Будет летняя школа по JavaScript и Node.js, расписание сообщу дополнительно
+
 # Весна 2016
 * Расписание семинаров и дополнительных лекций [KPI-2016-Spring/Meetings](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Meetings.md)
 * Курс "Архитектура и проектирование программного обеспечения"  
@@ -8,6 +11,8 @@
   * [Письмо 1 от 2016-02-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter1.md)
   * [Письмо 2 от 2016-03-09](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter2.md)
   * [Письмо 3 от 2016-03-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter3.md)
+  * [Письмо 4 от 2016-06-06](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter4.md)
+  * [Билеты на экзамены по АППО](https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/SOFTARCH)
 * Курс "Разработка сетевых протоколов" для группы ИТ-32
   * [Письмо 3a от 2016-03-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter3a.md)
 * Курс "Распределенные системы обработки информации" для группы ИТ-42
