@@ -37,21 +37,30 @@ https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/SOFTARCH
 две электронные книги: https://learn.javascript.ru/ и http://gabdrahimov.ru/javascript-uchebnik
 
 7. Несколько моих лекций по Node.js и докладов на конференциях тут:
-  * Архитектура программных систем на Node.js https://www.youtube.com/watch?v=Try7lmWikao
-  * Вводная лекция по Node.js (с коллегами) https://www.youtube.com/watch?v=0oIiPJtfUpw
-  * Примеры быстрой разработки API на масштабируемом сервера приложений https://www.youtube.com/watch?v=f6McffaVq78
+  * Архитектура программных систем на Node.js  
+  https://www.youtube.com/watch?v=Try7lmWikao
+  * Вводная лекция по Node.js (с коллегами)  
+  https://www.youtube.com/watch?v=0oIiPJtfUpw
+  * Примеры быстрой разработки API на масштабируемом сервера приложений  
+  https://www.youtube.com/watch?v=f6McffaVq78
 
 8. Несколько моих статей можно почитать тут:
-  * Impress Application Server простыми словами https://habrahabr.ru/post/247543/
-  * Метапрограммирование (с примерами на JavaScript) https://habrahabr.ru/post/227753/
-  * Назад, к технологиям верхнего палеолита, от любимых всеми REST, STATEless, CRUD, CGI, FastСGI и MVC https://habrahabr.ru/post/204958/
-  * А MVC ли это? https://habrahabr.ru/post/117791/
-  * Как исправить ошибку в NodeJS и нечаянно поднять производительность в 2 раза https://habrahabr.ru/post/264851/
+  * Impress Application Server простыми словами  
+  https://habrahabr.ru/post/247543/
+  * Метапрограммирование (с примерами на JavaScript)  
+  https://habrahabr.ru/post/227753/
+  * Назад, к технологиям верхнего палеолита, от любимых всеми REST, STATEless, CRUD, CGI, FastСGI и MVC  
+  https://habrahabr.ru/post/204958/
+  * А MVC ли это?  
+  https://habrahabr.ru/post/117791/
+  * Как исправить ошибку в NodeJS и нечаянно поднять производительность в 2 раза  
+  https://habrahabr.ru/post/264851/
 
 9. Как установить Node.js и подготовить среду для разработки:
   * Все есть на первой странице https://nodejs.org/
   * Ставьте версию 6.2.1 (или последнюю на текущий момент)
-  * или вот тут лежат у меня скрипты установки для разных версий Ubuntu, Debian, CentOS https://github.com/tshemsedinov/impress/tree/master/deploy  
+  * или вот тут лежат у меня скрипты установки для разных версий Ubuntu, Debian, CentOS  
+  https://github.com/tshemsedinov/impress/tree/master/deploy  
   Скрипт ставит полный набор, MongoDB, Node.js, Impress и вспомогательные вещи.  
   Из скрипта можно взять только команды для установки ноды.  
   Например, для установки на Ubuntu сразу бинарников:

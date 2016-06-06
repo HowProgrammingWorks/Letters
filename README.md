@@ -1,8 +1,9 @@
 ## Письма к студентам курса
 
-Оглавление:
 # Лето 2016
 * Будет летняя школа по JavaScript и Node.js, расписание сообщу дополнительно
+* Вводные материалы по Node.js студентам 1 курса, группы ИП-51, ИП-52, ИП-53, ИП-54
+https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Intro.md
 
 # Весна 2016
 * Расписание семинаров и дополнительных лекций [KPI-2016-Spring/Meetings](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Meetings.md)
