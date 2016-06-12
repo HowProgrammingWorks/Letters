@@ -14,6 +14,7 @@ https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Intro
   * [Письмо 3 от 2016-03-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter3.md)
   * [Письмо 4 от 2016-06-06](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter4.md)
   * [Билеты на экзамены по АППО](https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/SOFTARCH)
+  * [Письмо 5 от 2016-06-12](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter5.md)
 * Курс "Разработка сетевых протоколов" для группы ИТ-32
   * [Письмо 3a от 2016-03-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter3a.md)
 * Курс "Распределенные системы обработки информации" для группы ИТ-42
