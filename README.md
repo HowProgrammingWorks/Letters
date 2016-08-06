@@ -1,12 +1,14 @@
 ## Письма к студентам курса
 
 # Лето 2016
-* Будет летняя школа по JavaScript и Node.js, расписание сообщу дополнительно
-* Вводные материалы по Node.js студентам 1 курса, группы ИП-51, ИП-52, ИП-53, ИП-54
-https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Intro.md
+* Летняя школа по Node.js в КПИ,
+[см. расписание](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md)
+* Вводные материалы по Node.js студентам 1 курса, группы ИП-51, ИП-52, ИП-53, ИП-54,
+[см. ссылку](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Intro.md)
 
 # Весна 2016
-* Расписание семинаров и дополнительных лекций [KPI-2016-Spring/Meetings](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Meetings.md)
+* Расписание семинаров и дополнительных лекций
+[KPI-2016-Spring/Meetings](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Meetings.md)
 * Курс "Архитектура и проектирование программного обеспечения"  
 для групп ИП-31, ИП-32, ИП-41, ИП-42, ИП-43, ИП-44
   * [Письмо 1 от 2016-02-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Letter1.md)
