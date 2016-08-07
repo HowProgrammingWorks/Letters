@@ -8,23 +8,24 @@
 Контакты по организационным вопросам:
 - [github.com/tshemsedinov](https://github.com/tshemsedinov)
 - [habrahabr.ru/users/marcusaurelius](https://habrahabr.ru/users/marcusaurelius/)
-- (timur.shemsedinov@gmail.com)
-
-## Группы митапов
-
-[meetup.com/KievNodeJS](http://www.meetup.com/KievNodeJS/)
-- Группа появилась 11 апреля 2014 года
-- За это время было 6 митапов
-- Собралось всего 852 человека
-
-[meetup.com/NodeUA](http://www.meetup.com/NodeUA/)
-- Уже 251 человека
+- timur.shemsedinov@gmail.com
 
 Практику будут проводить:
 - Тимур Шемсединов
 - Алексей Орленко
 - Дмитрий Нечай
 - Влад Дзюба и другие
+
+## Группы митапов
+
+Группа [meetup.com/KievNodeJS](http://www.meetup.com/KievNodeJS/)
+- Группа появилась 11 апреля 2014 года
+- За это время было 6 митапов
+- Собралось всего 852 человека
+
+Группа [meetup.com/NodeUA](http://www.meetup.com/NodeUA/)
+- Новая группа для более широкого сообщества
+- Уже 251 человека
 
 ## КПИ и Node.js
 
@@ -36,17 +37,17 @@ Node.js введен в учебные курсы:
 
 ## Планы обучения для "Программной инженерии" по треку Node.js
 
-Ссылка на программу:
-[HowProgrammingWorks/Letters/Docs/NODEJS](https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/NODEJS)
+Ссылка на программу:  
+https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/NODEJS
 
-Экзаменационные вопросы по предмету "Архитектура и проектирование программного обеспечения"
-[HowProgrammingWorks/Letters/Docs/SOFTARCH](https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/SOFTARCH)
+Экзаменационные вопросы по предмету "Архитектура и проектирование программного обеспечения"  
+https://github.com/HowProgrammingWorks/Letters/tree/master/Docs/SOFTARCH
 
 Учебные репозитории:
-- [HowProgrammingWorks](https://github.com/HowProgrammingWorks)
-- [Письма студентам](https://github.com/HowProgrammingWorks/Letters)
+- Оргенизация: https://github.com/HowProgrammingWorks
+- Письма студентам: https://github.com/HowProgrammingWorks/Letters
 
-Лабораторные работы:
+Примеры лабораторных работ:
 - https://github.com/HowProgrammingWorks
 - https://github.com/InversionOfControl
 - https://github.com/AbstractionLayers
@@ -68,11 +69,11 @@ Node.js введен в учебные курсы:
 
 Несколько моих лекций по Node.js и докладов на конференциях тут:
 
-- Архитектура программных систем на Node.js
+- Архитектура программных систем на Node.js  
   https://www.youtube.com/watch?v=Try7lmWikao
-- Вводная лекция по Node.js (с коллегами)
+- Вводная лекция по Node.js (с коллегами)  
   https://www.youtube.com/watch?v=0oIiPJtfUpw
-- Примеры быстрой разработки API на масштабируемом сервера приложений
+- Примеры быстрой разработки API на масштабируемом сервера приложений  
   https://www.youtube.com/watch?v=f6McffaVq78
 
 ## Подготовка среды
@@ -109,10 +110,14 @@ sudo apt-get install -y nodejs
 
 ## Митапы NodeUA
 
-1. Node.js как бекенд для игровых приложений (интерактивность, реактивность реального времени) сб 13 августа
-2. Node.js как бекенд для мобильных приложений (API, RPC, MQ, уведомления) сб 20 августа
-3. Node.js как бекенд для корпоративных приложений (базы данных, безопасность, надежность, интеграция) дата уточняется
+1. Node.js как бекенд для игровых приложений (интерактивность, реактивность реального времени)  
+сб 13 августа
+2. Node.js как бекенд для мобильных приложений (API, RPC, MQ, уведомления)  
+сб 20 августа
+3. Node.js как бекенд для корпоративных приложений (базы данных, безопасность, надежность, интеграция)  
+дата уточняется
 
 ##Расписание
 
-Расписание на август 2016 https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md
+Расписание на август  
+2016 https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md
