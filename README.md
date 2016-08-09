@@ -2,6 +2,7 @@
 
 # Лето 2016
 * Летняя школа по Node.js в КПИ, [Вступительная лекция](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Intro.md),
+[материалы](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/),
 [см. расписание](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md)
 * Вводные материалы по Node.js студентам 1 курса, группы ИП-51, ИП-52, ИП-53, ИП-54,
 [см. ссылку](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Spring/Intro.md)
