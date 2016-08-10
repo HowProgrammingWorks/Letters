@@ -21,7 +21,7 @@ let fieldName = 'city',
 let person = {
   name: 'Marcus Aurelius',
   [fieldName]: fieldValue
-}
+};
 console.dir(person);
 ```
 
@@ -49,7 +49,6 @@ console.dir(person);
 ```
 
 ##Функции объектов/хешей
-
 ```js
 // Раньше так писали
 let person = {
@@ -60,6 +59,10 @@ let person = {
 };
 console.dir(person.getCity());
 ```
+
+var a = function myFn(a,v) {};
+a.length
+
 
 ```js
 // Теперь можно опустить слово function
@@ -95,14 +98,38 @@ console.log(a);
 ```
 
 ```js
-// Тип не может меняться, а содержание может
+// Variable scope
 const a = [1, 2, 3];
 for (let i = 0; i < a.length; i++) {
   let item = a[i];
   console.log(i, item);
+  {
+    let c = 5;
+  }
+  console.log(c);
 }
 console.log(i, item);
 ```
+
+
+function() {
+  var i = 5;
+  (function() {
+    var i = 7;  
+  })();
+}
+
+
+() => {
+  let i = 5;
+  {
+    let i = 7;  
+  }
+}
+
+
+
+
 
 ```js
 const a = {
@@ -132,7 +159,7 @@ let i = 0;
   }
   {
     function getValue() {
-      return 'Secont';
+      return 'Second';
     }
     console.log(getValue());
   }
@@ -140,7 +167,7 @@ let i = 0;
 }
 ```
 
-##Arrow functions (толстые стрелки, fat attow)
+##Arrow functions (толстые стрелки, fat arrow)
 
 let fn = () => 5;
 console.log(fn());
@@ -152,6 +179,7 @@ let inc = (a) => {
 };
 console.log(inc(2));
 ```
+
 
 ```js
 let persons = [
@@ -166,6 +194,13 @@ let query = (person) => (
   person.name !== '' &&
   person.city === 'Rome'
 );
+
+let query = (person, age) => (
+  person.name !== '' &&
+  person.city === 'Rome'
+);
+
+
 
 console.dir(persons.filter(query));
 ```
@@ -202,14 +237,15 @@ fn(5);
 fn(6, 'Mao Zedong')
 fn(7, 'Victor Glushkov', 'Kiev');
 
-let  max = (a, b, ...c) => {
+// Spreas
+let max = (a, b, ...c = [1,2]) => {
   if (c.length === 0) return a > b ? a : b;
   else {
     let m = max(a, b);
     c.push(m);
     return max.apply(null, c);
   }
-}
+};
 
 console.log(max(1,2));
 console.log(max(1,2,3));
@@ -222,6 +258,15 @@ let name = 'Marcus';
 let letters = [...name];
 console.log(letters);
 ```
+
+```js
+let obj = {
+  name: 'Marcus',
+  city: 'Roma'
+};
+let obj2 = {...obj};
+```
+
 
 ##Generators
 
