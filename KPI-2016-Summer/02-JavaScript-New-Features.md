@@ -142,6 +142,7 @@ let i = 0;
 
 ##Arrow functions (толстые стрелки, fat arrow)
 
+```js
 let fn = () => 5;
 console.log(fn());
 ```
