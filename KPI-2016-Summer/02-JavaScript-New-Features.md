@@ -1,6 +1,6 @@
 # Новые возможности в JavaScript
 
-##Property definition
+## Property definition
 
 ```js
 // Так раньше писали
@@ -48,7 +48,7 @@ let person = {
 console.dir(person);
 ```
 
-##Функции объектов/хешей
+## Функции объектов/хешей
 
 ```js
 // Раньше так писали
@@ -72,7 +72,7 @@ let person = {
 console.dir(person.getCity());
 ```
 
-##Destructuring assignment
+## Destructuring assignment
 
 ```js
 let a = [1, 2, 3];
@@ -80,7 +80,7 @@ let [k, l, m] = a;
 console.log({k,l,m});
 ```
 
-##Block-scoped variable and functions
+## Block-scoped variable and functions
 
 ```js
 // Константы
@@ -140,7 +140,7 @@ let i = 0;
 }
 ```
 
-##Arrow functions (толстые стрелки, fat arrow)
+## Arrow functions (толстые стрелки, fat arrow)
 
 ```js
 let fn = () => 5;
@@ -216,7 +216,7 @@ console.log(max(1,2));
 console.log(max(1,2,3));
 ```
 
-#Spread
+## Spread
 
 ```js
 let name = 'Marcus';
@@ -224,7 +224,7 @@ let letters = [...name];
 console.log(letters);
 ```
 
-##Generators
+## Generators
 
 ```js
 let fibonacci = function* (max) {
