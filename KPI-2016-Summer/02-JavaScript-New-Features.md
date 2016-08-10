@@ -140,7 +140,7 @@ let i = 0;
 }
 ```
 
-##Arrow functions (толстые стрелки, fat attow)
+##Arrow functions (толстые стрелки, fat arrow)
 
 let fn = () => 5;
 console.log(fn());
@@ -202,7 +202,7 @@ fn(5);
 fn(6, 'Mao Zedong')
 fn(7, 'Victor Glushkov', 'Kiev');
 
-let  max = (a, b, ...c) => {
+let max = (a, b, ...c) => {
   if (c.length === 0) return a > b ? a : b;
   else {
     let m = max(a, b);
