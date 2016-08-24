@@ -1,25 +1,44 @@
 # Материалы летней школы
 
-- [Начало летней школы по Node.js в КПИ](http://www.meetup.com/KievNodeJS/events/233058960/)
-  - [Расписание](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md)
-  - [Статья на Хабре](https://habrahabr.ru/post/307332/)
-- [Лекция №1 Введение в технологию Node.js](http://www.meetup.com/KievNodeJS/events/233195325/)
+- Начало летней школы по Node.js в КПИ
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233058960/)
+  - [Расписание](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md) и [Статья на Хабре](https://habrahabr.ru/post/307332/)
+- Лекция №1 Введение в технологию Node.js
+  - [Meetup](http://www.meetup.com/KievNodeJS/events/233195325/)
   - [Слайды с вводной лекции](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/01-NodeJs-Platform-Basics.pdf)
-- [Лекция №2 Синтаксис JavaScript (хороший стиль и новшества в языке](http://www.meetup.com/KievNodeJS/events/233195396/)
+- Лекция №2 Синтаксис JavaScript (хороший стиль и новшества в языке
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195396/)
   - [Презентация](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/02-JavaScript-New-Features.md)
-- [Лекция №3 Парадигмы программирования в JavaScript и Node.js](http://www.meetup.com/KievNodeJS/events/233195433/)
+- Лекция №3 Парадигмы программирования в JavaScript и Node.js
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195433/
   - [Генераторы](https://github.com/HowProgrammingWorks/Generators)
     - [Презентация](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/03-JavaScript-Generators.pdf)
     - [Примеры](https://github.com/HowProgrammingWorks/Generators)
   - [Монады, примеры кода](https://github.com/DzyubSpirit/Monads-in-Javascript)
-- [Лекция №4 Песочницы, инверсия управления, внедрение зависимостей Node.js](http://www.meetup.com/KievNodeJS/events/233195513/)
+  - [Письмо с материалами после лекции](http://www.meetup.com/KievNodeJS/messages/boards/thread/50053526)
+- Лекция №4 Песочницы, инверсия управления, внедрение зависимостей Node.js
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195513/)
   - [Песочницы / Sandboxes](https://github.com/HowProgrammingWorks/InversionOfControl/tree/master/sandboxedModule)
   - [Обертки / Wrappers](https://github.com/HowProgrammingWorks/InversionOfControl/tree/master/interfaceWrapper)
   - [Внедрение зависимостей / Dependency injection](https://github.com/HowProgrammingWorks/InversionOfControl/tree/master/dependencyInjection/ru)
-- [Лекция №5 Асинхронное программирование на Node.js](http://www.meetup.com/KievNodeJS/events/233195696/)
-- [Лекция №6 Промисы, генераторы, async, metasync](http://www.meetup.com/KievNodeJS/events/233195731/)
-- [Лекция №7 Метапрограммирование на Node.js](http://www.meetup.com/KievNodeJS/events/233195745/)
-- [Лекция №8 Сервера для ветхого веба, HTTP на Node.js](http://www.meetup.com/KievNodeJS/events/233195763/)
-- [Лекция №9 Интерактивные приложения, пример чата, WS, TCP, JSTP](http://www.meetup.com/KievNodeJS/events/233195790/)
-- [Лекция №10 Межпроцессовое взаимодействие и масштабирование](http://www.meetup.com/KievNodeJS/events/233195809/)
-- [Лекция №11 Пример реализации многопольз. электронных таблиц](http://www.meetup.com/KievNodeJS/events/233195834/)
+- Лекция №5 Асинхронное программирование на Node.js
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195696/)
+  - [Концептуальные примеры и задания](https://github.com/HowProgrammingWorks/AsynchronousProgramming)
+  - [Практические примеры](https://github.com/DzyubSpirit/Asynchronous-Javascript)
+- Лекция №6 Промисы, генераторы, async, metasync
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195731/)
+  - [Библиотека MetaSync](https://github.com/metarhia/MetaSync)
+  - [Примеры кода по промисам](https://github.com/HowProgrammingWorks/Promises)
+- Лекция №7 Метапрограммирование на Node.js
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195745/)
+  - [Слайды с конференции](http://www.slideshare.net/tshemsedinov/javascript-36636872)
+  - [Статья на на Хабре](https://habrahabr.ru/post/227753/)
+  - [Примеры кода](https://github.com/HowProgrammingWorks/Metaprogramming)
+- Лекция №8 Сервера для ветхого веба, HTTP на Node.js
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195763/)
+- Лекция №9 Интерактивные приложения, пример чата, WS, TCP, JSTP
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195790/)
+- Лекция №10 Межпроцессовое взаимодействие и масштабирование
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195809/)
+- Лекция №11 Пример реализации многопольз. электронных таблиц
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195834/)
