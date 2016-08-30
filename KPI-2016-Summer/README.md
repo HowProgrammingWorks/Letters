@@ -10,7 +10,7 @@
   - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195396/)
   - [Презентация](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/02-JavaScript-New-Features.md)
 - Лекция №3 Парадигмы программирования в JavaScript и Node.js
-  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195433/
+  - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195433/)
   - [Генераторы](https://github.com/HowProgrammingWorks/Generators)
     - [Презентация](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/03-JavaScript-Generators.pdf)
     - [Примеры](https://github.com/HowProgrammingWorks/Generators)
@@ -32,7 +32,7 @@
 - Лекция №7 Метапрограммирование на Node.js
   - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195745/)
   - [Слайды с конференции](http://www.slideshare.net/tshemsedinov/javascript-36636872)
-  - [Статья на на Хабре](https://habrahabr.ru/post/227753/)
+  - [Статья на Хабре](https://habrahabr.ru/post/227753/)
   - [Примеры кода](https://github.com/HowProgrammingWorks/Metaprogramming)
 - Лекция №8 Сервера для ветхого веба, HTTP на Node.js
   - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195763/)
