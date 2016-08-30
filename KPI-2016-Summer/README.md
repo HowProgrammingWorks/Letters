@@ -1,12 +1,14 @@
 # Материалы летней школы
 
+Основной репозиторий на Github: https://github.com/HowProgrammingWorks
+
 - Начало летней школы по Node.js в КПИ
   - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233058960/)
   - [Расписание](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/Meetings.md) и [Статья на Хабре](https://habrahabr.ru/post/307332/)
 - Лекция №1 Введение в технологию Node.js
   - [Meetup](http://www.meetup.com/KievNodeJS/events/233195325/)
   - [Слайды с вводной лекции](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/01-NodeJs-Platform-Basics.pdf)
-- Лекция №2 Синтаксис JavaScript (хороший стиль и новшества в языке
+- Лекция №2 Синтаксис JavaScript (хороший стиль кода и новшества в языке)
   - [Объявление на Meetup](http://www.meetup.com/KievNodeJS/events/233195396/)
   - [Презентация](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2016-Summer/02-JavaScript-New-Features.md)
 - Лекция №3 Парадигмы программирования в JavaScript и Node.js
