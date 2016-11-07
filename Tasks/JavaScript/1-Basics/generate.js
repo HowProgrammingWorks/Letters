@@ -1,64 +1,65 @@
-let data = [
-  {
-    task: 'Объявить массив 25 строк',
-    select: 1,
-    options: [
-      'города', 'реки', 'страны', 'острова', 'планеты', 'животные', 'герои книг',
-      'писатели фантасты', 'писатели худлит', 'поэты', 'композиторы', 'музыканты',
-      'ученые', 'императоры', 'президенты', 'музыкальные группы', 'марки автомобилей',
-      'специальности', 'галактики', 'цветы', 'деревья', 'собаки', 'цвета', 'фильмы',
-      'науки', 'напитки', 'блюда', 'одежда', 'мебель', 'музыкальные инструменты',
-      'операционные системы', 'валюты', 'обувь', 'национальности', 'философы', 'птицы',
-      'рыбы', 'киностудии', 'университеты', 'игры', 'художники', 'спортсмены', 'грибы'
-    ]
-  },
-  {
-    task: 'Отфильтровать',
-    select: 1,
-    options: [
-      'подходят не длинее 10 букв',
-      'подходят только с одним словом в названии',
-      'подходят только с двумя словами в названии',
-      'в названии могут быть только буквы',
-      'должно начинаться с заглавной буквы',
-      'должно начинаться со строчной буквы',
-      'не должно содержать дефис',
-      'должно содержать дефис'
-    ]
-  },
-  {
-    task: 'Отсортировать',
-    select: 1,
-    options: [
-      'по алфавиту в прямом порядке А-Я',
-      'по алфавиту в обратном порядке Я-А',
-      'по возростанию длины слов',
-      'по убыванию длины слов',
-      'по кол-ву гласных букв',
-      'по кол-ву слов в названии'
-    ]
-  },
-  {
-    task: 'Для каждого элемента сгенерировать',
-    select: 2,
-    options: [
-      'массив кодов символов',
-      'массив слов, встречающихся в названии',
-      'массив частоты использования символов'
-    ]
-  },
-  {
-    task: 'Создать API для работы с массивом',
-    select: 2,
-    options: [
-      'поиск строк в массиве по подстроке',
-      'поиск строк массива в тексте',
-      'хеширование и поиск по хешу',
-      'шифрование и дешифрование',
-    ]
-  }
-];
+const fs = require('fs');
+const personAmount = 30;
+const data = require('./data.js');
 
-data.forEach((item) => {
-  console.log(item.task + ' options: ' + item.options.length);
+let personId = parseInt(process.argv[2]);
+
+let taskList = [];
+if (personId) {
+  taskList.push(generateTask(personId));
+} else {
+  for (let pid = 1; pid <= personAmount; pid++) {
+    taskList.push(generateTask(pid));
+  }
+}
+fs.writeFileSync('tasks.json', JSON.stringify(taskList));
+
+let text = '';
+taskList.forEach(personTask => {
+  text += 'Задание для студента №' + personTask.personId + '\n';
+  personTask.tasks.forEach(aTask => {
+    text += (
+      'Задание №' + aTask.order + '\n' +
+      'Текст задания: ' + aTask.task + '\n'
+    );
+    aTask.variants.forEach(variant => {
+      text += 'Вариант: ' + variant + '\n';
+    });
+    text += '\n';
+  });
+  text += '--------------------\n';
 });
+fs.writeFileSync('tasks.txt', text);
+
+let csv = '';
+taskList.forEach(personTask => {
+  csv += 'Задание для студента №;"' + personTask.personId + '"\n';
+  personTask.tasks.forEach(aTask => {
+    csv += (
+      '№' + aTask.order + ';' + aTask.task + ';'
+    );
+    aTask.variants.forEach(variant => {
+       csv += variant + ';';
+    });
+    csv += '\n';
+  });
+  csv += '\n\n';
+});
+fs.writeFileSync('tasks.csv', csv);
+
+function generateTask(personId) {
+  let result = { personId, tasks: [] };
+  data.forEach((item, n) => {
+    let aTask = {
+      order: n + 1,
+      task: item.task,
+      variants: []
+    };
+    for (let i = 0; i < item.select; i++) {
+      v = (personId + i) % item.options.length;
+      aTask.variants.push(item.options[v]);
+    }
+    result.tasks.push(aTask);
+  });
+  return result;
+}
