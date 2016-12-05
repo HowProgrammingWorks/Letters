@@ -56,7 +56,7 @@ function generateTask(personId) {
       variants: []
     };
     for (let i = 0; i < item.select; i++) {
-      v = (personId + i) % item.options.length;
+      let v = (personId + i) % item.options.length;
       aTask.variants.push(item.options[v]);
     }
     result.tasks.push(aTask);
