@@ -1,4 +1,4 @@
-# Парадигмы программирование
+# Парадигмы программирования
 
 ## Первый семестр
 
@@ -43,7 +43,9 @@
 ### Парадигмы и техники программирования
 
 * Событийное программирование: [EventDrivenProgramming](https://github.com/HowProgrammingWorks/EventDrivenProgramming)
-* Ассинхронное программирование: [AsynchronousProgramming](https://github.com/HowProgrammingWorks/AsynchronousProgramming)
+* Асинхронное программирование: [AsynchronousProgramming](https://github.com/HowProgrammingWorks/AsynchronousProgramming)
+* Оптимизация асинхронности: [async](https://github.com/caolan/async)
+* Метаасинхронные функции: [MetaSync](https://github.com/metarhia/MetaSync)
 * Программирование управляемое данными: [DataDrivenProgramming](https://github.com/HowProgrammingWorks/DataDrivenProgramming)
 
 ## Третий семестр
