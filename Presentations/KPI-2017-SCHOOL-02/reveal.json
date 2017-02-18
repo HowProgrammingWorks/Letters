@@ -1,0 +1,9 @@
+{
+  "controls": false,
+  "progress": false,
+  "hideAddressBar": true,
+  "transition": "slide",
+  "transitionSpeed": "default",
+  "backgroundTransition": "fade",
+  "viewDistance": 3
+}
