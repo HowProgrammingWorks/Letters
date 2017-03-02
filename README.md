@@ -2,6 +2,8 @@
 
 # Весна 2017
 * Курс "Основы технологй программирования" ИП-51, ИП-52, ИП-53, ИП-54
+  * [Письмо 1 от 2017-02-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Spring/Letter1.md)
+  * [Письмо 2 от 2017-03-03](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Spring/Letter2.md)
 * Курс "Разработка сетевых протоколов" ИТ-42
 
 # Осень 2016
