@@ -1,5 +1,11 @@
 ## Письма к студентам курса
 
+# Лето 2017
+* Летняя школа по JavaScript и Node.js в КПИ
+  * [Расписание на акгуст](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Meetings.md)
+  * Материалы лекции #2: [Настройка окружения и инструментов](https://github.com/HowProgrammingWorks/Environment)
+  * Материалы лекции #3: [Основы JavaScript](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Lecture3.md)
+
 # Весна 2017
 * Курс "Основы технологй программирования" ИП-51, ИП-52, ИП-53, ИП-54
   * [Письмо 1 от 2017-02-20](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Spring/Letter1.md)
