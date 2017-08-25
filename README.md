@@ -5,6 +5,7 @@
   * [Расписание на акгуст](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Meetings.md)
   * Материалы лекции #2: [Настройка окружения и инструментов](https://github.com/HowProgrammingWorks/Environment)
   * Материалы лекции #3: [Основы JavaScript](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Lecture3.md)
+  * Материалы лекции #4: [Введение в Node.js](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Lecture4.md)
 
 # Весна 2017
 * Курс "Основы технологй программирования" ИП-51, ИП-52, ИП-53, ИП-54
