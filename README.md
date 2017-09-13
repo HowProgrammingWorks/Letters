@@ -1,5 +1,15 @@
 ## Письма к студентам курса
 
+# Осень 2017
+* Курс "Основы программирования", группы ИП-71, ИП-72, ИП-73, ИП-74, ИТ-71, ИТ-72, ИТ-73, ИТ-74
+  * [Расписание лекций](https://www.meetup.com/HowProgrammingWorks/events/) все время обновляется и дополняется
+  * Материалы лекции #1 ["Введение в программную инженерию"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture1.md)
+  * Материалы лекции #2 ["Основы JavaScript: переменные, типы и функции"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture2.md)
+  * Материалы лекции #3 ["Настройка среды: git, github"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture3.md)
+  * Материалы лекции #4 "Основы JavaScript: структуры данных, условия и итерирование"
+  * Материалы лекции #5 "Настройка среды: node.js, npm, eslint"
+* Курсы "Технологии разработки программного обеспечения" и "Программирование интернета"
+
 # Лето 2017
 * Летняя школа по JavaScript и Node.js в КПИ
   * [Расписание на акгуст](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Meetings.md)
