@@ -12,7 +12,7 @@
 
 # Лето 2017
 * Летняя школа по JavaScript и Node.js в КПИ
-  * [Расписание на акгуст](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Meetings.md)
+  * [Расписание на август](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Meetings.md)
   * Материалы лекции #2: [Настройка окружения и инструментов](https://github.com/HowProgrammingWorks/Environment)
   * Материалы лекции #3: [Основы JavaScript](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Lecture3.md)
   * Материалы лекции #4: [Введение в Node.js](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Summer/Lecture4.md)
