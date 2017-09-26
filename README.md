@@ -6,8 +6,12 @@
   * Материалы лекции #1 ["Введение в программную инженерию"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture1.md)
   * Материалы лекции #2 ["Основы JavaScript: переменные, типы и функции"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture2.md)
   * Материалы лекции #3 ["Настройка среды: git, github"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture3.md)
-  * Материалы лекции #4 "Основы JavaScript: структуры данных, условия и итерирование"
-  * Материалы лекции #5 "Настройка среды: node.js, npm, eslint"
+  * Материалы лекции #4 ["Структуры данных, строки, композиция функций"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture4.md)
+  * Материалы лекции #5 ["JavaSctipt for Babies"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture5.md)
+  * Материалы лекции #6 ["Композиция функций, частичное применение, обертки"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture6.md)
+  * Материалы лекции #7 ["Введение в Node.js"](https://github.com/HowProgrammingWorks/Letters/blob/master/KPI-2017-Autumn/Lecture7.md)
+  * Материалы лекции #8 "Стиль и конвенции кода на JavaScript"
+  * Материалы лекции #9 "Условия, итерирование, коллекции"
 * Курсы "Технологии разработки программного обеспечения" и "Программирование интернета"
 
 # Лето 2017
